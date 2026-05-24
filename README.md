@@ -6,14 +6,14 @@ A dedicated repository documenting my daily progress, core concepts learned, and
 
 ---
 
-## :Day 1
+## Day 1
 
 ### :Concepts Mastered
 - **Syntax & Execution:** Configured the basic template of a C program and successfully executed the standard `Hello World` output.
 - **Data Types & Variables:** Studied how variables act as named memory locations and explored foundational data types (`int`, `float`, `char`) and their roles in memory allocation.
 - **Source Code Documentation:** Implemented single-line (`//`) and multi-line (`/* */`) comments to enhance code maintainability and readability.
 
-### :Debugging Log & Environment Setup
+### Debugging Log & Environment Setup
 
 #### 1. Toolchain Configuration & Path Issues
 - **Problem:** Encountered an environment issue where the GNU Compiler Collection binary (`gcc.exe`) via MinGW was not directly visible or recognized within the root setup directory.
